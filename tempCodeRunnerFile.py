@@ -1,0 +1,1 @@
+self.description_label.setText(weather_descrption)
